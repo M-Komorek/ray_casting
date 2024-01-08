@@ -2,8 +2,11 @@
 
   Implementation of Wolfenstein/DOOM style software rendering.
   
-  I've been wondering, **"How the hell did they manage to make Wolfenstein work even if it doesn't have a GPU to render the graphics????"**.
-   <br>
+  I've been wondering: 
+  <br>
+  **"How the hell did they manage to make Wolfenstein work even if it doesn't have a GPU to render the graphics?"**.
+  <br>
+  <br>
   I decided that to find out, I had to do something similar myself.
 
   ![project screenshot](screen/example_0.png)
